@@ -1,0 +1,34 @@
+.khung1{
+    float: center;
+    background-color:#f5f4f4;
+    font-size: 14px;
+    height:700px;
+    width:700px;
+    border: solid;
+    margin-left: 400px;
+}
+.khung2{
+    background-color: white;
+    height: 40px;
+    width: 600px;
+    border: solid;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.khung{
+    float: left;
+    background-color: white;
+    height: 230px;
+    width: 150px;
+    border: solid;
+    margin-top: 50px;
+    margin-left: 60px;
+    text-align: center;
+}
+.khung3{
+    background-color: #232323;
+    height: 10px:
+    width: 40px;
+    margin-top: 30px;
+    color: white;
+}
